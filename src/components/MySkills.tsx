@@ -1,6 +1,36 @@
-import data from "../data/home_data.json";
+import Image1 from '../img/product-chain-1.png';
+import Image2 from '../img/tag-1.png';
+import Image3 from '../img/feather-pen-2.png';
+import Image4 from '../img/feather-pen-1.png';
 
 export default function MySkills() {
+    const data =  [
+        {
+            "id": "1",
+            "src": Image1,
+            "title": "Front-End",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        },
+        {
+            "id": "2",
+            "src": Image2,
+            "title": "Back-End",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        },
+        {
+            "id": "3",
+            "src": Image3,
+            "title": "UI & UX Design",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        },
+        {
+            "id": "4",
+            "src": Image4,
+            "title": "Webflow Development",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        }
+    ];
+
     return (
         <section className="skills--section" id="mySkills">
             <div className="portfolio--container">
@@ -8,7 +38,7 @@ export default function MySkills() {
                 <h2 className="skills--section--heading">My Expertise</h2>
             </div>
             <div className="skills--section--container">
-                {data?.skills?.map((item, index) => (
+                {data?.map((item, index) => (
                     <div key={index} className="skills--section--card">
                         <div className="skills--section--img">
                             <img src={item.src} alt="Product Chain" />
