@@ -8,13 +8,13 @@ export default function MySkills() {
         {
             "id": "1",
             "src": Image1,
-            "title": "Front-End",
+            "title": "AI",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
         },
         {
             "id": "2",
             "src": Image2,
-            "title": "Back-End",
+            "title": "SB?",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
         },
         {
@@ -26,7 +26,7 @@ export default function MySkills() {
         {
             "id": "4",
             "src": Image4,
-            "title": "Webflow Development",
+            "title": "Coding",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
         }
     ];

@@ -1,4 +1,4 @@
-import AboutMeImage from '../img/about-me.png'
+import AboutMeImage from '../img/about-me.jpeg'
 
 export default function AboutMe() {
     return (
@@ -18,8 +18,7 @@ export default function AboutMe() {
                     </p>
                     <p className="hero--section-description">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-                        officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-                        recusandae?
+                        officiis sit debitis omnis harum
                     </p>
                 </div>
             </div>

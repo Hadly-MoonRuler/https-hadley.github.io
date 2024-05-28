@@ -202,7 +202,7 @@ h2 {
 }
 
 .navbar--active-content {
-    color: var(--primary);
+    /*color: var(--primary);*/
 }
 
 /* Navbar Styler Ends */
