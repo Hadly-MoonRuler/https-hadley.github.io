@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PersonalPage-Hadley/static/css/main.d68ab287.css",
+    "main.js": "/PersonalPage-Hadley/static/js/main.0a69392d.js",
+    "static/js/453.ed3810f9.chunk.js": "/PersonalPage-Hadley/static/js/453.ed3810f9.chunk.js",
+    "static/media/hero_img.png": "/PersonalPage-Hadley/static/media/hero_img.e3bc74a242a69dbff6f5.png",
+    "static/media/about-me.png": "/PersonalPage-Hadley/static/media/about-me.9d98861b9b3421468c96.png",
+    "index.html": "/PersonalPage-Hadley/index.html",
+    "main.d68ab287.css.map": "/PersonalPage-Hadley/static/css/main.d68ab287.css.map",
+    "main.0a69392d.js.map": "/PersonalPage-Hadley/static/js/main.0a69392d.js.map",
+    "453.ed3810f9.chunk.js.map": "/PersonalPage-Hadley/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d68ab287.css",
+    "static/js/main.0a69392d.js"
+  ]
+}
