@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/PersonalPage-Hadley/static/css/main.d68ab287.css",
-    "main.js": "/PersonalPage-Hadley/static/js/main.0a69392d.js",
+    "main.css": "/PersonalPage-Hadley/static/css/main.2fe0adc6.css",
+    "main.js": "/PersonalPage-Hadley/static/js/main.725be259.js",
     "static/js/453.ed3810f9.chunk.js": "/PersonalPage-Hadley/static/js/453.ed3810f9.chunk.js",
-    "static/media/hero_img.png": "/PersonalPage-Hadley/static/media/hero_img.e3bc74a242a69dbff6f5.png",
-    "static/media/about-me.png": "/PersonalPage-Hadley/static/media/about-me.9d98861b9b3421468c96.png",
+    "static/media/hero-image.jpeg": "/PersonalPage-Hadley/static/media/hero-image.ec0eb5bbb31ef7cc6f61.jpeg",
+    "static/media/about-me.jpeg": "/PersonalPage-Hadley/static/media/about-me.994a71b05c85e687b9f9.jpeg",
+    "static/media/placeholder-image-2.png": "/PersonalPage-Hadley/static/media/placeholder-image-2.e5af0b407cd64d13ef88.png",
+    "static/media/placeholder-image.png": "/PersonalPage-Hadley/static/media/placeholder-image.b5c563dd08439f4b54dc.png",
+    "static/media/placeholder-image-1.png": "/PersonalPage-Hadley/static/media/placeholder-image-1.ce5b7201aa87141e4d96.png",
     "index.html": "/PersonalPage-Hadley/index.html",
-    "main.d68ab287.css.map": "/PersonalPage-Hadley/static/css/main.d68ab287.css.map",
-    "main.0a69392d.js.map": "/PersonalPage-Hadley/static/js/main.0a69392d.js.map",
+    "main.2fe0adc6.css.map": "/PersonalPage-Hadley/static/css/main.2fe0adc6.css.map",
+    "main.725be259.js.map": "/PersonalPage-Hadley/static/js/main.725be259.js.map",
     "453.ed3810f9.chunk.js.map": "/PersonalPage-Hadley/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d68ab287.css",
-    "static/js/main.0a69392d.js"
+    "static/css/main.2fe0adc6.css",
+    "static/js/main.725be259.js"
   ]
 }
