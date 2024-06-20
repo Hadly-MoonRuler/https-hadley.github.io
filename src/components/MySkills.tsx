@@ -16,7 +16,7 @@ export default function MySkills() {
             "id": "2",
             "src": Image3,
             "title": "教育背景",
-            "description": "中国农业大学-农业工程与信息技术\n大连外国大学-网络工程"
+            "description": "中国农业大学-农业工程与信息技术\n大连外国语大学-网络工程"
         },
         {
             "id": "3",
