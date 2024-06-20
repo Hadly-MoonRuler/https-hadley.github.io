@@ -10,7 +10,7 @@ interface LanguageContextType {
 }
 
 function App() {
-    const LanguageContext = createContext();
+    // const LanguageContext = createContext();
 
     return (
         <div className="App">
