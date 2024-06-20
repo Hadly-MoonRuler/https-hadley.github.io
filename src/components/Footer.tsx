@@ -101,7 +101,7 @@ function Footer() {
                     </ul>
                 </div>
             </div>
-            <hr className="divider"/>
+            {/*<hr className="divider"/>*/}
         </footer>
     );
 }

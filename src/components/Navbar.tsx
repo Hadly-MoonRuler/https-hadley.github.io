@@ -56,7 +56,21 @@ function Navbar() {
                             to="heroSection"
                             className="navbar--content"
                         >
-                            Home
+                            首页
+                        </Link>
+                    </li>
+                    <li>
+                        <Link
+                            onClick={closeMenu}
+                            activeClass="navbar--active-content"
+                            spy={true}
+                            smooth={true}
+                            offset={-70}
+                            duration={500}
+                            to="mySkills"
+                            className="navbar--content"
+                        >
+                            技能
                         </Link>
                     </li>
                     <li>
@@ -70,7 +84,7 @@ function Navbar() {
                             to="MyPortfolio"
                             className="navbar--content"
                         >
-                            Portfolio
+                            项目经历
                         </Link>
                     </li>
                     <li>
@@ -84,21 +98,7 @@ function Navbar() {
                             to="AboutMe"
                             className="navbar--content"
                         >
-                            About Me
-                        </Link>
-                    </li>
-                    <li>
-                        <Link
-                            onClick={closeMenu}
-                            activeClass="navbar--active-content"
-                            spy={true}
-                            smooth={true}
-                            offset={-70}
-                            duration={500}
-                            to="testimonial"
-                            className="navbar--content"
-                        >
-                            Testimonials
+                            关于我
                         </Link>
                     </li>
                 </ul>
@@ -111,9 +111,9 @@ function Navbar() {
                 offset={-70}
                 duration={500}
                 to="Contact"
-                className="btn btn-outline-primary"
+                // className="btn btn-outline-primary"
             >
-                Contact Me
+                {/*与我联系*/}
             </Link>
         </nav>
     );
